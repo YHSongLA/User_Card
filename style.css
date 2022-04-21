@@ -1,0 +1,49 @@
+/* utilities starts */
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+.flexcard {
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* utilities ends */
+
+.card {
+    width: 600px;
+    min-height: 300px;
+    margin: 40px auto;
+    padding: 0px;
+    border: 2px solid lightskyblue;
+}
+
+.header {
+    background-color: dodgerblue;
+    height: 100px;
+    margin-bottom: 50px;
+}
+
+.name {
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+p {
+    padding: 0px 0px 0px 20px;
+}
+
+.user-icon {
+    width: 100px;
+    border-radius: 50%;
+    padding: 50px 20px;
+}
+
+.icons {
+    width: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
